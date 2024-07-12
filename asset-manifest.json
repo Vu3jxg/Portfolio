@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.4e558664.css",
-    "main.js": "/Portfolio/static/js/main.47363104.js",
+    "main.js": "/Portfolio/static/js/main.9101b66d.js",
     "static/js/415.4d6acbeb.chunk.js": "/Portfolio/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/Portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/ai-generated-8718795_1280.png": "/Portfolio/static/media/ai-generated-8718795_1280.389a49fa23a4788615c8.png",
     "static/media/avatar-gp.png": "/Portfolio/static/media/avatar-gp.870a221b39687d4db1d3.png",
     "static/media/DT.jpeg": "/Portfolio/static/media/DT.79681d27b01dc6987f29.jpeg",
-    "static/media/Gaurav_Pal_Resume_ATS.pdf": "/Portfolio/static/media/Gaurav_Pal_Resume_ATS.8a969c6a944415a8cda0.pdf",
+    "static/media/Gaurav_Pal_Resume_ATS1.pdf": "/Portfolio/static/media/Gaurav_Pal_Resume_ATS1.950405ec9e8a6e0a39d7.pdf",
     "static/media/about.png": "/Portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
     "static/media/paper3.jpeg": "/Portfolio/static/media/paper3.2db0183ea144b1be4c2f.jpeg",
     "static/media/paper1.jpeg": "/Portfolio/static/media/paper1.94f93b421a9296571710.jpeg",
@@ -17,12 +17,12 @@
     "static/media/pre.svg": "/Portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/Portfolio/index.html",
     "main.4e558664.css.map": "/Portfolio/static/css/main.4e558664.css.map",
-    "main.47363104.js.map": "/Portfolio/static/js/main.47363104.js.map",
+    "main.9101b66d.js.map": "/Portfolio/static/js/main.9101b66d.js.map",
     "415.4d6acbeb.chunk.js.map": "/Portfolio/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/Portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4e558664.css",
-    "static/js/main.47363104.js"
+    "static/js/main.9101b66d.js"
   ]
 }
