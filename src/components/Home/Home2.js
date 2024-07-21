@@ -36,7 +36,7 @@ function Home2() {
                 <b className="purple">Web application devlopement, IoT based Web Technologies and Products </b> and
                 also in areas related to{" "}
                 <b className="purple">
-                  Blockchain.
+                  M2M and Digital Twin.
                 </b>
               </i>
               <br />
